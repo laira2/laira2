@@ -60,15 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laira2&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laira2&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
 <p align="center">
   🌱 <i>꾸준히 배우고, 끝까지 몰입하는 태도.<br>
   팀과 함께 문제를 해결하는 개발자가 되겠습니다.</i>  
