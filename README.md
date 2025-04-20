@@ -10,15 +10,13 @@
 </h1>
 
 <p align="center">
-  <i>"기술로 문제를 구조적으로 해결하고, <br>
-  사용자에게 신뢰를 주는 시스템을 설계합니다."</i>
+  🌱 <i>꾸준히 배우고, 끝까지 몰입하는 태도.<br>
+  팀과 함께 문제를 해결하는 개발자가 되겠습니다.</i>  >
 </p>
 
 <p align="center">
   <a href="mailto:laira2@naver.com">📩 Email</a> •
-  <a href="https://velog.io/@laira2">📝 Blog</a> •
   <a href="https://woolly-brush-4e0.notion.site/?pvs=4">📁 Portfolio</a> •
-  <a href="https://github.com/laira2">💻 GitHub</a>
 </p>
 
 ---
@@ -42,14 +40,6 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
-### 🧩 MSA & 구조 설계  
-<p>
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gateway-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feign_Client-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Eureka-7952B3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Circuit_Breaker-00599C?style=for-the-badge"/>
-</p>
 
 ### 🔧 Tools  
 <p>
@@ -59,11 +49,6 @@
 </p>
 
 ---
-
-<p align="center">
-  🌱 <i>꾸준히 배우고, 끝까지 몰입하는 태도.<br>
-  팀과 함께 문제를 해결하는 개발자가 되겠습니다.</i>  
-</p>
 
 <!--
 **laira2/laira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
